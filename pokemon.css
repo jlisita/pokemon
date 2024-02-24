@@ -1,0 +1,28 @@
+#screen
+{
+    width : 350px;
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+
+#controlButtons
+{
+    width : 300px;
+    margin: auto;
+    text-align: center;
+}
+#gauche,#droite
+{
+    width: 40px;
+    height:20px;
+    margin: auto;
+    display: inline-block;
+}
+#haut,#bas
+{
+    width:40px;
+    height:20px;
+    margin:auto;
+    display:block;
+}
